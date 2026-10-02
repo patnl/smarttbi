@@ -6,7 +6,7 @@
   var DETOUR_FACTOR = 1.3;
   var OSRM_URL = 'https://router.project-osrm.org/route/v1/driving/';
   var NOMINATIM_URL = 'https://nominatim.openstreetmap.org/search';
-  var CACHE_KEY = 'smarttbi-transport-cache-v1';
+  var CACHE_KEY = 'smarttbi-transport-cache-v1';  // alleen geocoder- en wegroutes
 
   // Veelvoorkomende herkomsten, zodat een CSV zonder coördinaten ook zonder geocoder werkt.
   var GAZETTEER = {
@@ -60,7 +60,8 @@
     lat: ['lat', 'latitude', 'breedtegraad'],
     lon: ['lon', 'lng', 'long', 'longitude', 'lengtegraad'],
     count: ['aantal', 'count', 'ritten', 'trips'],
-    vehicle: ['voertuig', 'vehicle', 'type', 'voertuigtype']
+    vehicle: ['voertuig', 'vehicle', 'type', 'voertuigtype'],
+    mode: ['modaliteit', 'mode', 'vervoerwijze', 'modality', 'transportmiddel']
   };
 
   function parseNumber(v) {
@@ -99,8 +100,11 @@
       var origin = col.origin >= 0 ? r[col.origin].trim() : '';
       if (!origin && !isNaN(lat)) origin = lat.toFixed(3) + ', ' + lon.toFixed(3);
       if (!origin) { skipped++; return; }
+      var mode = parseMode(col.mode >= 0 ? r[col.mode] : '');
+      if (!mode) { skipped++; return; }
       var count = col.count >= 0 ? parseNumber(r[col.count]) : 1;
       trips.push({
+        mode: mode,
         date: date,
         origin: origin,
         lat: lat,
@@ -185,6 +189,114 @@
     }
   }
 
+  // ---------- Modaliteiten ----------
+
+  var MODES = {
+    road: { label: 'Weg', color: '#2456c9', dash: null, unit: 'ritten' },
+    water: { label: 'Water', color: '#0b9bb0', dash: null, unit: 'vaarten' },
+    ov: { label: 'OV', color: '#2e9d4a', dash: '6 6', unit: 'reizen' }
+  };
+  var MODE_ORDER = ['road', 'water', 'ov'];
+  var MODE_ALIASES = {
+    road: ['weg', 'road', 'truck', 'vrachtwagen', 'auto', 'wegvervoer'],
+    water: ['water', 'schip', 'binnenvaart', 'boot', 'vaart', 'ship', 'barge', 'ponton', 'watervervoer'],
+    ov: ['ov', 'trein', 'bus', 'tram', 'metro', 'train', 'openbaar vervoer', 'public transport']
+  };
+  var OV_FACTOR = 1.2;      // spoor/bus is iets langer dan hemelsbreed
+  var WATER_FACTOR = 1.1;   // bochten tussen twee knooppunten van het netwerk
+
+  function parseMode(v) {
+    v = String(v || '').trim().toLowerCase();
+    if (!v) return 'road';
+    for (var m in MODE_ALIASES) if (MODE_ALIASES[m].indexOf(v) !== -1) return m;
+    return null;
+  }
+
+  function emptyKm() { return { road: 0, water: 0, ov: 0 }; }
+
+  // Schematisch netwerk van de grote Nederlandse vaarwegen (knooppunten bij benadering).
+  var WATER_NODES = {
+    amsWest: [52.405, 4.820], zaandam: [52.435, 4.830], amsOost: [52.378, 4.960], nigtevecht: [52.270, 5.030],
+    maarssen: [52.140, 5.040], lageWeide: [52.102, 5.075], jutphaas: [52.035, 5.100], wijkBD: [51.975, 5.330],
+    tiel: [51.890, 5.430], nijmegen: [51.852, 5.860], pannerden: [51.885, 6.050], arnhem: [51.975, 5.905],
+    westervoort: [51.960, 5.970], zutphen: [52.145, 6.195], deventer: [52.250, 6.150], zwolle: [52.500, 6.060],
+    kampen: [52.555, 5.910], ketelmeer: [52.595, 5.780], lelystad: [52.520, 5.430], markermeer: [52.450, 5.150],
+    hoorn: [52.630, 5.070], gooimeer: [52.330, 5.250], almere: [52.365, 5.215], amersfoort: [52.165, 5.385],
+    lochem: [52.165, 6.420], hengelo: [52.255, 6.770], zaltbommel: [51.815, 5.250], gorinchem: [51.828, 4.970],
+    dordrecht: [51.815, 4.670], rotterdam: [51.900, 4.490], waalhaven: [51.885, 4.440], moerdijk: [51.690, 4.600],
+    stAndries: [51.800, 5.330], denBosch: [51.715, 5.300], veghel: [51.615, 5.540], eindhoven: [51.455, 5.470],
+    bergscheMaas: [51.720, 4.980], breda: [51.640, 4.760]
+  };
+  var WATER_EDGES = [
+    ['amsWest', 'zaandam'], ['amsWest', 'amsOost'], ['amsOost', 'nigtevecht'], ['nigtevecht', 'maarssen'],
+    ['maarssen', 'lageWeide'], ['lageWeide', 'jutphaas'], ['jutphaas', 'wijkBD'], ['wijkBD', 'tiel'],
+    ['tiel', 'nijmegen'], ['nijmegen', 'pannerden'], ['pannerden', 'arnhem'], ['arnhem', 'wijkBD'],
+    ['pannerden', 'westervoort'], ['westervoort', 'zutphen'], ['zutphen', 'deventer'], ['deventer', 'zwolle'],
+    ['zwolle', 'kampen'], ['kampen', 'ketelmeer'], ['ketelmeer', 'lelystad'], ['lelystad', 'markermeer'],
+    ['markermeer', 'amsOost'], ['markermeer', 'hoorn'], ['markermeer', 'gooimeer'], ['gooimeer', 'almere'],
+    ['gooimeer', 'amersfoort'], ['zutphen', 'lochem'], ['lochem', 'hengelo'], ['tiel', 'zaltbommel'],
+    ['zaltbommel', 'gorinchem'], ['gorinchem', 'dordrecht'], ['dordrecht', 'rotterdam'], ['rotterdam', 'waalhaven'],
+    ['dordrecht', 'moerdijk'], ['zaltbommel', 'stAndries'], ['stAndries', 'denBosch'], ['denBosch', 'veghel'],
+    ['veghel', 'eindhoven'], ['denBosch', 'bergscheMaas'], ['bergscheMaas', 'moerdijk'], ['moerdijk', 'breda']
+  ];
+
+  function nearestWaterNode(p) {
+    var best = null, bestKm = Infinity;
+    Object.keys(WATER_NODES).forEach(function (n) {
+      var km = haversineKm(p, WATER_NODES[n]);
+      if (km < bestKm) { best = n; bestKm = km; }
+    });
+    return { node: best, km: bestKm };
+  }
+
+  // Kortste pad over het netwerk (Dijkstra; het netwerk is klein).
+  function waterPath(a, b) {
+    var adj = {};
+    WATER_EDGES.forEach(function (e) {
+      var km = haversineKm(WATER_NODES[e[0]], WATER_NODES[e[1]]) * WATER_FACTOR;
+      (adj[e[0]] = adj[e[0]] || []).push([e[1], km]);
+      (adj[e[1]] = adj[e[1]] || []).push([e[0], km]);
+    });
+    var dist = {}, prev = {}, todo = Object.keys(WATER_NODES);
+    todo.forEach(function (n) { dist[n] = Infinity; });
+    dist[a] = 0;
+    while (todo.length) {
+      todo.sort(function (x, y) { return dist[x] - dist[y]; });
+      var u = todo.shift();
+      if (u === b || dist[u] === Infinity) break;
+      (adj[u] || []).forEach(function (e) {
+        if (dist[u] + e[1] < dist[e[0]]) { dist[e[0]] = dist[u] + e[1]; prev[e[0]] = u; }
+      });
+    }
+    if (dist[b] === Infinity) return null;
+    var nodes = [b];
+    while (nodes[0] !== a) nodes.unshift(prev[nodes[0]]);
+    return { km: dist[b], coords: nodes.map(function (n) { return WATER_NODES[n]; }) };
+  }
+
+  // Route per modaliteit. km is uitgesplitst, want bij water horen voor- en natransport over de weg.
+  async function laneRoute(mode, from, to, useRouting) {
+    var km = emptyKm();
+    if (mode === 'water') {
+      var qa = nearestWaterNode(from), qb = nearestWaterNode(to);
+      var path = waterPath(qa.node, qb.node);
+      if (path) {
+        km.water = path.km;
+        km.road = (qa.km + qb.km) * DETOUR_FACTOR;
+        return { km: km, coords: [from].concat(path.coords, [to]), estimated: false, schematic: true, preKm: qa.km };
+      }
+    }
+    if (mode === 'ov') {
+      km.ov = haversineKm(from, to) * OV_FACTOR;
+      return { km: km, coords: [from, to], estimated: true };
+    }
+    var r = await route(from, to, useRouting);
+    km.road = r.km;
+    return { km: km, coords: r.coords, estimated: r.estimated };
+  }
+
+  function sumKm(km) { return km.road + km.water + km.ov; }
+
   // ---------- Kaart ----------
 
   var map = L.map('map', { zoomControl: true, preferCanvas: true }).setView([52.2, 5.3], 8);
@@ -194,7 +306,7 @@
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
   }).addTo(map);
 
-  var BLUE = '#2456c9', RED = '#e8412c';
+  var RED = '#e8412c';
   var routeLayer = L.layerGroup().addTo(map);
   var siteMarker = null;
 
@@ -202,8 +314,10 @@
 
   var state = {
     days: [],          // [{date, trips:[...]}] per kalenderdag
-    origins: {},       // naam -> {name, coords, route, line, trips, km}
-    cumulative: [],    // km t/m dag i
+    places: {},        // herkomst -> coördinaten
+    lanes: {},         // 'modaliteit|herkomst' -> {name, mode, route, line, trips, km}
+    cumulative: [],    // km per modaliteit t/m dag i
+    modes: [],         // modaliteiten die in de data voorkomen
     index: -1,
     playing: false,
     timer: null
@@ -227,10 +341,17 @@
     return [lat, lon];
   }
 
+  function laneKey(t) { return t.mode + '|' + t.origin; }
+
+  function baseStyle(mode) {
+    return { color: MODES[mode].color, weight: 2.5, opacity: 0.85, dashArray: MODES[mode].dash };
+  }
+
   async function prepare(trips) {
     stop();
     routeLayer.clearLayers();
-    state.origins = {};
+    state.places = {};
+    state.lanes = {};
     var site = sitePoint();
     var useRouting = $('use-routing').checked;
     var factor = $('round-trip').checked ? 2 : 1;
@@ -239,26 +360,31 @@
     siteMarker = L.circleMarker(site, { radius: 7, color: '#1c2430', weight: 2, fillColor: RED, fillOpacity: 1 })
       .bindTooltip($('site-name').value || 'Bouwplaats').addTo(map);
 
-    // Unieke herkomsten verzamelen.
+    // Unieke herkomsten en combinaties herkomst + modaliteit verzamelen.
     trips.forEach(function (t) {
-      if (!state.origins[t.origin]) {
-        state.origins[t.origin] = { name: t.origin, coords: isNaN(t.lat) ? null : [t.lat, t.lon], trips: 0, km: 0 };
-      }
+      if (!(t.origin in state.places)) state.places[t.origin] = isNaN(t.lat) ? null : [t.lat, t.lon];
+      var k = laneKey(t);
+      if (!state.lanes[k]) state.lanes[k] = { name: t.origin, mode: t.mode, trips: 0, km: emptyKm() };
     });
-    var names = Object.keys(state.origins);
+    var names = Object.keys(state.places);
     var failed = [];
     for (var i = 0; i < names.length; i++) {
-      var o = state.origins[names[i]];
-      setStatus('Herkomst ' + (i + 1) + ' van ' + names.length + ' bepalen: ' + o.name + '…');
-      if (!o.coords) {
-        try { o.coords = await geocode(o.name); } catch (e) { o.coords = null; }
-      }
-      if (!o.coords) { failed.push(o.name); continue; }
-      o.route = await route(o.coords, site, useRouting);
+      if (state.places[names[i]]) continue;
+      setStatus('Herkomst ' + (i + 1) + ' van ' + names.length + ' bepalen: ' + names[i] + '…');
+      try { state.places[names[i]] = await geocode(names[i]); } catch (e) { state.places[names[i]] = null; }
+      if (!state.places[names[i]]) failed.push(names[i]);
+    }
+    var keys = Object.keys(state.lanes);
+    for (var j = 0; j < keys.length; j++) {
+      var lane = state.lanes[keys[j]];
+      var from = state.places[lane.name];
+      if (!from) continue;
+      setStatus('Route ' + (j + 1) + ' van ' + keys.length + ' berekenen: ' + lane.name + ' (' + MODES[lane.mode].label + ')…');
+      lane.route = await laneRoute(lane.mode, from, site, useRouting);
     }
 
     // Ritten per dag groeperen, inclusief dagen zonder ritten.
-    var valid = trips.filter(function (t) { return state.origins[t.origin].route; });
+    var valid = trips.filter(function (t) { return state.lanes[laneKey(t)].route; });
     if (!valid.length) throw new Error('Geen enkele herkomst kon op de kaart worden geplaatst.');
     valid.sort(function (a, b) { return a.date - b.date; });
     var byDay = {};
@@ -271,24 +397,29 @@
     for (var d = valid[0].date.getTime(); d <= valid[valid.length - 1].date.getTime(); d += DAY) {
       state.days.push({ date: new Date(d), trips: byDay[d] || [] });
     }
-    var total = 0;
+    var total = emptyKm();
     state.cumulative = state.days.map(function (day) {
-      day.trips.forEach(function (t) { total += state.origins[t.origin].route.km * factor * t.count; });
-      return total;
+      day.trips.forEach(function (t) {
+        var km = state.lanes[laneKey(t)].route.km;
+        MODE_ORDER.forEach(function (m) { total[m] += km[m] * factor * t.count; });
+      });
+      return { road: total.road, water: total.water, ov: total.ov };
     });
+    state.modes = MODE_ORDER.filter(function (m) { return valid.some(function (t) { return t.mode === m; }); });
 
     // Lijnen alvast aanmaken (onzichtbaar tot de eerste rit).
     var bounds = L.latLngBounds([site]);
-    names.forEach(function (n) {
-      var o = state.origins[n];
-      if (!o.route) return;
-      o.line = L.polyline(o.route.coords, { color: BLUE, weight: 2.5, opacity: 0.85 });
-      o.line.bindTooltip(n);
-      bounds.extend(o.route.coords);
+    keys.forEach(function (k) {
+      var l = state.lanes[k];
+      if (!l.route) return;
+      l.line = L.polyline(l.route.coords, baseStyle(l.mode));
+      l.line.bindTooltip(l.name + ' (' + MODES[l.mode].label + ')');
+      bounds.extend(l.route.coords);
     });
     map.fitBounds(bounds, { padding: [30, 30], animate: false });
 
     renderSummary(valid, factor);
+    renderModeOverlay();
     $('scrub').max = state.days.length - 1;
     ['play', 'restart', 'record', 'scrub'].forEach(function (id) { $(id).disabled = false; });
     var msg = nlf0.format(valid.length) + ' regels over ' + state.days.length + ' dagen ingeladen.';
@@ -297,64 +428,120 @@
     showDay(-1);
   }
 
+  function cell(tr, v) {
+    var td = document.createElement('td');
+    td.textContent = v;
+    tr.appendChild(td);
+    return td;
+  }
+
   function renderSummary(trips, factor) {
-    var count = 0, km = 0, estimated = false;
-    Object.keys(state.origins).forEach(function (n) { state.origins[n].trips = 0; state.origins[n].km = 0; });
+    var count = 0, km = 0, estimated = false, schematic = false;
+    var perMode = {};
+    MODE_ORDER.forEach(function (m) { perMode[m] = { count: 0, km: 0 }; });
+    Object.keys(state.lanes).forEach(function (k) { state.lanes[k].trips = 0; state.lanes[k].km = emptyKm(); });
     trips.forEach(function (t) {
-      var o = state.origins[t.origin];
-      var k = o.route.km * factor * t.count;
-      o.trips += t.count; o.km += k;
-      count += t.count; km += k;
-      if (o.route.estimated) estimated = true;
+      var l = state.lanes[laneKey(t)];
+      l.trips += t.count;
+      perMode[t.mode].count += t.count;
+      count += t.count;
+      MODE_ORDER.forEach(function (m) {
+        var k = l.route.km[m] * factor * t.count;
+        l.km[m] += k; perMode[m].km += k; km += k;
+      });
+      if (l.route.estimated && t.mode === 'road') estimated = true;
+      if (l.route.schematic) schematic = true;
     });
     $('kpi-trips').textContent = nlf0.format(count);
     $('kpi-km').textContent = nlf0.format(km);
     $('kpi-earth').textContent = (km / EARTH_KM).toFixed(2).replace('.', ',') + '×';
     $('kpi-avg').textContent = nlf0.format(km / count);
-    var top = Object.keys(state.origins).map(function (n) { return state.origins[n]; })
-      .filter(function (o) { return o.trips > 0; })
-      .sort(function (a, b) { return b.km - a.km; }).slice(0, 10);
+
+    var mbody = $('mode-table');
+    mbody.innerHTML = '';
+    // km per modaliteit waarin ze gereden/gevaren zijn, net als de teller op de kaart.
+    MODE_ORDER.forEach(function (m) {
+      if (!perMode[m].count && !perMode[m].km) return;
+      var tr = document.createElement('tr');
+      var name = cell(tr, MODES[m].label);
+      name.className = 'mode-' + m;
+      cell(tr, nlf0.format(perMode[m].count) + ' ' + MODES[m].unit);
+      cell(tr, nlf0.format(perMode[m].km));
+      cell(tr, Math.round(perMode[m].km / km * 100) + '%');
+      mbody.appendChild(tr);
+    });
+    $('water-note').hidden = !schematic;
+    $('ov-note').hidden = state.modes.indexOf('ov') === -1;
+
+    var top = Object.keys(state.lanes).map(function (k) { return state.lanes[k]; })
+      .filter(function (l) { return l.trips > 0; })
+      .sort(function (a, b) { return sumKm(b.km) - sumKm(a.km); }).slice(0, 10);
     var tbody = $('top-origins');
     tbody.innerHTML = '';
-    top.forEach(function (o) {
+    top.forEach(function (l) {
       var tr = document.createElement('tr');
-      [o.name + (o.route.estimated ? ' *' : ''), nlf0.format(o.trips), nlf0.format(o.km)].forEach(function (v) {
-        var td = document.createElement('td');
-        td.textContent = v;
-        tr.appendChild(td);
-      });
+      cell(tr, l.name + (l.route.estimated && l.mode === 'road' ? ' *' : ''));
+      cell(tr, MODES[l.mode].label).className = 'mode-' + l.mode;
+      cell(tr, nlf0.format(l.trips));
+      cell(tr, nlf0.format(sumKm(l.km)));
       tbody.appendChild(tr);
     });
     $('estimate-note').hidden = !estimated;
     $('stats').hidden = false;
   }
 
+  function renderModeOverlay() {
+    var box = $('ov-modes');
+    box.innerHTML = '';
+    // Alleen uitsplitsen als er meer dan wegvervoer in de data zit.
+    box.hidden = state.modes.length < 2 && state.modes[0] === 'road';
+    MODE_ORDER.forEach(function (m) {
+      if (state.modes.indexOf(m) === -1 && !(m === 'road' && state.modes.indexOf('water') !== -1)) return;
+      var row = document.createElement('div');
+      row.className = 'mode-row';
+      var sw = document.createElement('span');
+      sw.className = 'swatch mode-' + m;
+      var lbl = document.createElement('span');
+      lbl.textContent = MODES[m].label;
+      var val = document.createElement('span');
+      val.className = 'mode-val';
+      val.id = 'ov-mode-' + m;
+      row.appendChild(sw); row.appendChild(lbl); row.appendChild(val);
+      box.appendChild(row);
+    });
+  }
+
   // Toon de kaart zoals die er op dag i uitziet (i = -1: nog niets gereden).
   function showDay(i) {
     state.index = i;
     var active = {};
-    if (i >= 0) state.days[i].trips.forEach(function (t) { active[t.origin] = true; });
+    if (i >= 0) state.days[i].trips.forEach(function (t) { active[laneKey(t)] = true; });
     var seen = {};
-    for (var d = 0; d <= i; d++) state.days[d].trips.forEach(function (t) { seen[t.origin] = true; });
+    for (var d = 0; d <= i; d++) state.days[d].trips.forEach(function (t) { seen[laneKey(t)] = true; });
 
-    Object.keys(state.origins).forEach(function (n) {
-      var o = state.origins[n];
-      if (!o.line) return;
-      if (seen[n]) {
-        if (!routeLayer.hasLayer(o.line)) routeLayer.addLayer(o.line);
-        o.line.setStyle(active[n] ? { color: RED, weight: 5, opacity: 1 } : { color: BLUE, weight: 2.5, opacity: 0.85 });
-        if (active[n]) o.line.bringToFront();
-      } else if (routeLayer.hasLayer(o.line)) {
-        routeLayer.removeLayer(o.line);
+    Object.keys(state.lanes).forEach(function (k) {
+      var l = state.lanes[k];
+      if (!l.line) return;
+      if (seen[k]) {
+        if (!routeLayer.hasLayer(l.line)) routeLayer.addLayer(l.line);
+        l.line.setStyle(active[k] ? { color: RED, weight: 5, opacity: 1, dashArray: MODES[l.mode].dash } : baseStyle(l.mode));
+        if (active[k]) l.line.bringToFront();
+      } else if (routeLayer.hasLayer(l.line)) {
+        routeLayer.removeLayer(l.line);
       }
     });
 
     if (siteMarker) siteMarker.bringToFront();
 
-    var km = i >= 0 ? state.cumulative[i] : 0;
+    var cum = i >= 0 ? state.cumulative[i] : emptyKm();
+    var km = sumKm(cum);
     $('ov-date').textContent = i >= 0 ? fmtDate(state.days[i].date) : fmtDate(state.days[0].date);
     $('ov-km').textContent = nf0.format(km) + ' km';
     $('ov-earth').textContent = nf2.format(km / EARTH_KM) + ' x';
+    MODE_ORDER.forEach(function (m) {
+      var el = $('ov-mode-' + m);
+      if (el) el.textContent = nf0.format(cum[m]) + ' km';
+    });
     $('scrub').value = Math.max(i, 0);
   }
 
@@ -456,5 +643,5 @@
   });
 
   // Voor tests en hergebruik.
-  window.SmartTbiTransport = { parseCsv: parseCsv, rowsToTrips: rowsToTrips, haversineKm: haversineKm, state: state, showDay: showDay };
+  window.SmartTbiTransport = { parseCsv: parseCsv, rowsToTrips: rowsToTrips, haversineKm: haversineKm, waterPath: waterPath, state: state, showDay: showDay };
 })();
