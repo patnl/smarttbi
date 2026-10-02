@@ -83,6 +83,50 @@
         <p class="hint" id="estimate-note" hidden>* Afstand geschat (hemelsbreed × 1,3): route kon niet worden
           opgehaald.</p>
       </section>
+
+      <section id="co2" hidden>
+        <h2>CO₂ en scenario</h2>
+        <details>
+          <summary>Emissiefactoren (kg CO₂ per km)</summary>
+          <div class="row two">
+            <label>Vrachtwagen <input type="number" id="co2-road" step="0.01" min="0" value="0.90"></label>
+            <label>Binnenvaartschip <input type="number" id="co2-water" step="0.5" min="0" value="15"></label>
+          </div>
+          <div class="row two">
+            <label>OV (per reiziger) <input type="number" id="co2-ov" step="0.005" min="0" value="0.03"></label>
+            <label>Auto (ter vergelijking) <input type="number" id="co2-car" step="0.01" min="0" value="0.19"></label>
+          </div>
+          <p class="hint">Indicatieve standaardwaarden (well-to-wheel). Vervang ze door de factoren uit jullie eigen
+            CO₂-rapportage, bijvoorbeeld van CO2emissiefactoren.nl.</p>
+        </details>
+
+        <h3>Scenario: bundelen over water</h3>
+        <p class="hint">Wegritten die dicht bij een kade beginnen gaan gebundeld per schip naar de kade bij de
+          bouwplaats; het laatste stuk blijft per vrachtwagen.</p>
+        <div class="row two">
+          <label>Max. km herkomst/bouwplaats–kade <input type="number" id="scn-quay" min="0" step="1" value="10"></label>
+          <label>Min. wegafstand (km) <input type="number" id="scn-min" min="0" step="5" value="25"></label>
+        </div>
+        <label>Vrachtwagenladingen per vaart <input type="number" id="scn-bundle" min="1" step="1" value="30"></label>
+        <div class="vehicles">
+          <span class="hint">Voertuigtypes die over water mogen:</span>
+          <div id="scn-vehicles"></div>
+        </div>
+
+        <table class="top co2">
+          <thead><tr><th></th><th>Huidig</th><th>Scenario</th><th>Verschil</th></tr></thead>
+          <tbody id="co2-table"></tbody>
+        </table>
+        <p class="scn-summary" id="scn-summary"></p>
+        <div id="scn-lanes-wrap" hidden>
+          <h3>Verschoven herkomsten</h3>
+          <table class="top">
+            <thead><tr><th>Herkomst</th><th>Ritten</th><th>Vaarten</th><th>CO₂</th></tr></thead>
+            <tbody id="scn-lanes"></tbody>
+          </table>
+        </div>
+        <p class="hint" id="co2-ov-car" hidden></p>
+      </section>
     </aside>
 
     <main class="map-wrap">
@@ -93,6 +137,8 @@
         <div class="val" id="ov-km">0 km</div>
         <div class="lbl">Earth Circumferences</div>
         <div class="val" id="ov-earth">0.00 x</div>
+        <div class="lbl">CO₂</div>
+        <div class="val" id="ov-co2">0 t</div>
         <div class="modes" id="ov-modes" hidden></div>
       </div>
     </main>

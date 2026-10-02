@@ -76,6 +76,15 @@ table.top td:nth-child(n+2), table.top th:nth-child(n+2) { text-align: right; fo
 .mode-ov { color: #2e9d4a; }
 table.top td.mode-road, table.top td.mode-water, table.top td.mode-ov { font-weight: bold; text-align: left; }
 
+details summary { cursor: pointer; font-size: .85em; margin: 4px 0; }
+.vehicles { margin: 6px 0 10px; }
+.vehicles .check { display: inline-block; margin: 2px 10px 2px 0; }
+table.co2 { margin-top: 6px; }
+table.top tr.total td { font-weight: bold; border-top: 1px solid #1c2430; }
+table.top td.better { color: #1e7b34; }
+table.top td.worse { color: #b3261e; }
+.scn-summary { font-size: .88em; font-weight: bold; line-height: 1.4; }
+
 .map-wrap { position: relative; flex: 1; }
 #map { position: absolute; inset: 0; background: #e8eaed; }
 

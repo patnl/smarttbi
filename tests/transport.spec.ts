@@ -44,3 +44,23 @@ test('modaliteit en vaarwegennetwerk', async ({ page }) => {
   expect(result.water.km).toBeGreaterThan(70);
   expect(result.water.km).toBeLessThan(130);
 });
+
+test('CO2-scenario verschuift wegritten naar water', async ({ page }) => {
+  await page.route(/^https?:\/\/(?!localhost)/, route => route.abort());
+  await page.goto('/transport.html');
+  await page.locator('#use-routing').uncheck();
+  await page.locator('#load-example').click();
+  await expect(page.locator('#co2')).toBeVisible({ timeout: 15000 });
+  await expect(page.locator('#scn-vehicles input[value="betonmixer"]')).not.toBeChecked();
+  await expect(page.locator('#scn-summary')).toContainText('CO₂ daalt');
+  await expect(page.locator('#scn-lanes tr').first()).toBeVisible();
+  await page.locator('#scrub').evaluate((el: HTMLInputElement) => {
+    el.value = el.max;
+    el.dispatchEvent(new Event('input'));
+  });
+  await expect(page.locator('#ov-co2')).not.toHaveText('0 t');
+
+  // Geen ladingen bundelen en geen kade in de buurt: niets verschuift.
+  await page.locator('#scn-quay').fill('0');
+  await expect(page.locator('#scn-summary')).toContainText('geen ritten verschoven');
+});

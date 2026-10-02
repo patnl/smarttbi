@@ -318,6 +318,9 @@
     lanes: {},         // 'modaliteit|herkomst' -> {name, mode, route, line, trips, km}
     cumulative: [],    // km per modaliteit t/m dag i
     modes: [],         // modaliteiten die in de data voorkomen
+    trips: [],         // geldige regels, gesorteerd op datum
+    factor: 1,         // 2 als retourritten meetellen
+    site: null,
     index: -1,
     playing: false,
     timer: null
@@ -418,7 +421,11 @@
     });
     map.fitBounds(bounds, { padding: [30, 30], animate: false });
 
+    state.trips = valid;
+    state.factor = factor;
+    state.site = site;
     renderSummary(valid, factor);
+    renderVehicleChoices();
     renderModeOverlay();
     $('scrub').max = state.days.length - 1;
     ['play', 'restart', 'record', 'scrub'].forEach(function (id) { $(id).disabled = false; });
@@ -426,6 +433,7 @@
     if (failed.length) msg += ' Niet gevonden: ' + failed.join(', ') + '.';
     setStatus(msg, failed.length > 0);
     showDay(-1);
+    renderCo2();
   }
 
   function cell(tr, v) {
@@ -542,8 +550,160 @@
       var el = $('ov-mode-' + m);
       if (el) el.textContent = nf0.format(cum[m]) + ' km';
     });
+    $('ov-co2').textContent = nf0.format(co2Kg(cum, co2Factors()) / 1000) + ' t';
     $('scrub').value = Math.max(i, 0);
   }
+
+  // ---------- CO₂ en scenario ----------
+
+  function co2Factors() {
+    var f = {};
+    ['road', 'water', 'ov', 'car'].forEach(function (k) {
+      var v = parseNumber($('co2-' + k).value);
+      f[k] = isNaN(v) || v < 0 ? 0 : v;
+    });
+    return f;
+  }
+
+  // kg CO₂ voor km per modaliteit (weg = vrachtwagen-km, water = vaar-km, ov = reizigers-km).
+  function co2Kg(km, f) { return km.road * f.road + km.water * f.water + km.ov * f.ov; }
+
+  function fmtTon(kg) { return nlf0.format(kg / 1000) + ' t'; }
+
+  var NO_WATER_VEHICLES = ['betonmixer', 'betonwagen', 'mixer', 'truckmixer'];
+
+  function vehicleName(t) { return t.vehicle || '(onbekend)'; }
+
+  function renderVehicleChoices() {
+    var box = $('scn-vehicles');
+    var prev = {};
+    box.querySelectorAll('input').forEach(function (i) { prev[i.value] = i.checked; });
+    var names = {};
+    state.trips.forEach(function (t) { if (t.mode === 'road') names[vehicleName(t)] = true; });
+    box.innerHTML = '';
+    Object.keys(names).sort().forEach(function (n) {
+      var label = document.createElement('label');
+      label.className = 'check';
+      var input = document.createElement('input');
+      input.type = 'checkbox';
+      input.value = n;
+      // Vers beton kan niet goed over water; die staan standaard uit.
+      input.checked = n in prev ? prev[n] : NO_WATER_VEHICLES.indexOf(n.toLowerCase()) === -1;
+      input.addEventListener('change', renderCo2);
+      label.appendChild(input);
+      label.appendChild(document.createTextNode(' ' + n));
+      box.appendChild(label);
+    });
+  }
+
+  // Wat als wegritten die dicht bij een kade beginnen gebundeld over water waren gegaan?
+  function waterScenario() {
+    var maxQuay = parseNumber($('scn-quay').value);
+    var minKm = parseNumber($('scn-min').value);
+    var bundle = Math.max(1, parseNumber($('scn-bundle').value) || 1);
+    var allowed = {};
+    $('scn-vehicles').querySelectorAll('input').forEach(function (i) { allowed[i.value] = i.checked; });
+
+    var siteQuay = nearestWaterNode(state.site);
+    var result = { lanes: [], trucks: 0, sailings: 0, delta: emptyKm(), siteQuayKm: siteQuay.km, possible: siteQuay.km <= maxQuay };
+    if (!result.possible) return result;
+
+    var perLane = {};
+    state.trips.forEach(function (t) {
+      if (t.mode !== 'road' || !allowed[vehicleName(t)]) return;
+      var k = laneKey(t);
+      perLane[k] = (perLane[k] || 0) + t.count;
+    });
+    Object.keys(perLane).forEach(function (k) {
+      var l = state.lanes[k];
+      var from = state.places[l.name];
+      if (l.route.km.road < minKm) return;
+      var quay = nearestWaterNode(from);
+      if (quay.km > maxQuay) return;
+      var path = waterPath(quay.node, siteQuay.node);
+      if (!path) return;
+      var n = perLane[k];
+      var sailings = Math.ceil(n / bundle);
+      var f = state.factor;
+      // Weg: de oorspronkelijke ritten vervallen, voor- en natransport per lading blijft.
+      var roadDelta = (-l.route.km.road + (quay.km + siteQuay.km) * DETOUR_FACTOR) * n * f;
+      var waterDelta = path.km * sailings * f;
+      result.delta.road += roadDelta;
+      result.delta.water += waterDelta;
+      result.trucks += n;
+      result.sailings += sailings;
+      result.lanes.push({ name: l.name, trucks: n, sailings: sailings, roadDelta: roadDelta, waterDelta: waterDelta });
+    });
+    result.lanes.sort(function (a, b) { return a.roadDelta - b.roadDelta; });
+    return result;
+  }
+
+  function renderCo2() {
+    if (!state.days.length) return;
+    var f = co2Factors();
+    var now = state.cumulative[state.cumulative.length - 1];
+    var nowKg = co2Kg(now, f);
+    var scn = waterScenario();
+    var after = { road: now.road + scn.delta.road, water: now.water + scn.delta.water, ov: now.ov };
+    var afterKg = co2Kg(after, f);
+
+    var rows = [
+      ['Vrachtwagen-km', nlf0.format(now.road), nlf0.format(after.road), after.road - now.road],
+      ['Vaar-km', nlf0.format(now.water), nlf0.format(after.water), after.water - now.water],
+      ['CO₂ weg', fmtTon(now.road * f.road), fmtTon(after.road * f.road), (after.road - now.road) * f.road / 1000],
+      ['CO₂ water', fmtTon(now.water * f.water), fmtTon(after.water * f.water), (after.water - now.water) * f.water / 1000],
+      ['CO₂ OV', fmtTon(now.ov * f.ov), fmtTon(now.ov * f.ov), 0],
+      ['CO₂ totaal', fmtTon(nowKg), fmtTon(afterKg), (afterKg - nowKg) / 1000]
+    ];
+    var tbody = $('co2-table');
+    tbody.innerHTML = '';
+    rows.forEach(function (r, idx) {
+      var tr = document.createElement('tr');
+      if (idx === rows.length - 1) tr.className = 'total';
+      cell(tr, r[0]); cell(tr, r[1]); cell(tr, r[2]);
+      var d = cell(tr, (r[3] > 0 ? '+' : '') + nlf0.format(r[3]));
+      d.className = r[3] < 0 ? 'better' : r[3] > 0 ? 'worse' : '';
+      tbody.appendChild(tr);
+    });
+
+    var summary = $('scn-summary');
+    if (!scn.possible) {
+      summary.textContent = 'De bouwplaats ligt ' + nlf0.format(scn.siteQuayKm) +
+        ' km van de dichtstbijzijnde kade, meer dan de ingestelde afstand: geen ritten verschoven.';
+    } else if (!scn.trucks) {
+      summary.textContent = 'Met deze instellingen komt geen enkele wegrit in aanmerking voor water.';
+    } else {
+      var pct = nowKg ? Math.round((nowKg - afterKg) / nowKg * 100) : 0;
+      summary.textContent = nlf0.format(scn.trucks) + ' vrachtwagenritten gaan in ' + nlf0.format(scn.sailings) +
+        ' vaarten over water. CO₂ ' + (afterKg <= nowKg ? 'daalt' : 'stijgt') + ' met ' +
+        fmtTon(Math.abs(nowKg - afterKg)) + ' (' + Math.abs(pct) + '%).';
+    }
+    var lbody = $('scn-lanes');
+    lbody.innerHTML = '';
+    scn.lanes.forEach(function (l) {
+      var tr = document.createElement('tr');
+      cell(tr, l.name);
+      cell(tr, nlf0.format(l.trucks));
+      cell(tr, nlf0.format(l.sailings));
+      var co2 = (l.roadDelta * f.road + l.waterDelta * f.water) / 1000;
+      cell(tr, (co2 > 0 ? '+' : '') + nlf0.format(co2) + ' t').className = co2 < 0 ? 'better' : 'worse';
+      lbody.appendChild(tr);
+    });
+    $('scn-lanes-wrap').hidden = !scn.lanes.length;
+
+    var ovNote = $('co2-ov-car');
+    ovNote.hidden = !now.ov;
+    if (now.ov) {
+      ovNote.textContent = 'OV-reizen: ' + fmtTon(now.ov * f.ov) + ' CO₂. Met de auto (1 persoon per auto) was dat ' +
+        fmtTon(now.ov * f.car) + ' geweest; dat scheelt ' + fmtTon(now.ov * (f.car - f.ov)) + '.';
+    }
+    $('co2').hidden = false;
+    showDay(state.index);
+  }
+
+  ['co2-road', 'co2-water', 'co2-ov', 'co2-car', 'scn-quay', 'scn-min', 'scn-bundle'].forEach(function (id) {
+    $(id).addEventListener('input', renderCo2);
+  });
 
   // ---------- Afspelen ----------
 
