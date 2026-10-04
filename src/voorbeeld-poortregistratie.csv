@@ -1,0 +1,3878 @@
+datum;herkomst;lat;lon;voertuig;modaliteit;aantal
+2025-01-06;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-06;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-01-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-06;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-06;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-01-06;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-06;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-06;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-01-06;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-01-06;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-06;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-01-06;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-06;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-06;Utrecht;52.0907;5.1214;bus;ov;3
+2025-01-06;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-07;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-07;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-07;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-01-07;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-01-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-07;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-07;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-07;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-07;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-07;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-07;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-01-07;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-01-07;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-01-07;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-07;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-01-07;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-07;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-07;Utrecht;52.0907;5.1214;bus;ov;5
+2025-01-07;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-08;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-08;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-08;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-08;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-08;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-08;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-08;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-08;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-01-08;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-08;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-08;Utrecht;52.0907;5.1214;bus;ov;3
+2025-01-08;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-09;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-01-09;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-09;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-09;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-01-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-09;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-09;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-09;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-09;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-09;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-09;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-09;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-01-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-09;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-01-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-09;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-01-09;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-09;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-09;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-09;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-01-09;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-09;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-09;Utrecht;52.0907;5.1214;bus;ov;3
+2025-01-09;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-10;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-01-10;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-10;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-10;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-10;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-10;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-10;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-10;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-10;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-10;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-01-10;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-10;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-10;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-01-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-10;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-10;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-01-10;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-10;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-10;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-10;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-10;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-10;Utrecht;52.0907;5.1214;bus;ov;2
+2025-01-10;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-13;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-13;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-13;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-13;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-13;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-01-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-13;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-13;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-01-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-13;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-01-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-13;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-13;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-13;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-13;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-01-13;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-13;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-13;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-13;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-13;Utrecht;52.0907;5.1214;bus;ov;5
+2025-01-13;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-14;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-14;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-14;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-14;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-14;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-14;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-01-14;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-14;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-14;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-01-14;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-14;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-01-14;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-14;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-14;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-14;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-14;Utrecht;52.0907;5.1214;bus;ov;5
+2025-01-14;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-15;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-15;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-15;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-01-15;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-01-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-15;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-01-15;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-01-15;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-01-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-15;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-15;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-15;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-15;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-15;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-15;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-01-15;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-15;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-15;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-15;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-15;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-15;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-15;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-15;Utrecht;52.0907;5.1214;bus;ov;4
+2025-01-15;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-16;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-16;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-01-16;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-16;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-16;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-16;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-16;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-16;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-01-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-16;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-16;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-16;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-01-16;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-16;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-16;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-16;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-16;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-16;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-16;Utrecht;52.0907;5.1214;bus;ov;4
+2025-01-16;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-17;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-01-17;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-01-17;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-17;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-01-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-17;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-01-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-17;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-17;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-17;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-17;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-17;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-01-17;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-17;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-17;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-17;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-01-17;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-17;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-17;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-17;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-17;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-17;Utrecht;52.0907;5.1214;bus;ov;4
+2025-01-17;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-20;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-20;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-01-20;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-20;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-20;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-01-20;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-01-20;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-20;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-01-20;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-20;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-20;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-01-20;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-20;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-01-20;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-01-20;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-20;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-01-20;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-20;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-01-20;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-20;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-20;Utrecht;52.0907;5.1214;bus;ov;4
+2025-01-20;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-21;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-21;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-01-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-21;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-21;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-21;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-21;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-01-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-21;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-01-21;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-21;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-01-21;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-01-21;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-21;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-21;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-01-21;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-21;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-21;Utrecht;52.0907;5.1214;bus;ov;5
+2025-01-21;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-22;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-01-22;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-22;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-22;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-22;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-01-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-22;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-01-22;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-01-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-22;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-22;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-01-22;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-22;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-22;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-01-22;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-22;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-22;Utrecht;52.0907;5.1214;bus;ov;3
+2025-01-22;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-23;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-23;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-23;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-01-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-23;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-01-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-23;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-23;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-23;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-01-23;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-01-23;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-23;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-23;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-23;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-01-23;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-23;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-01-23;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-23;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-23;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-23;Utrecht;52.0907;5.1214;bus;ov;5
+2025-01-23;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-24;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-01-24;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-24;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-24;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-24;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-01-24;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-01-24;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-01-24;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-01-24;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-01-24;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-24;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-24;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-24;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-24;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-24;Utrecht;52.0907;5.1214;bus;ov;5
+2025-01-24;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-27;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-27;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-01-27;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-01-27;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-27;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-27;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-01-27;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-27;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-01-27;Den Haag;52.0700;4.3000;trein;ov;1
+2025-01-27;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-01-27;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-27;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-27;Utrecht;52.0907;5.1214;bus;ov;5
+2025-01-27;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-28;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-01-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-28;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-01-28;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-28;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-28;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-28;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-01-28;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-01-28;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-28;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-28;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-01-28;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-01-28;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-01-28;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-28;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-28;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-28;Utrecht;52.0907;5.1214;bus;ov;3
+2025-01-28;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-29;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-01-29;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-29;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-29;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-01-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-29;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-01-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-29;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-01-29;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-29;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-29;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-01-29;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-01-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-29;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-29;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-29;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-29;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-29;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-29;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-29;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-29;Utrecht;52.0907;5.1214;bus;ov;3
+2025-01-29;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-30;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-01-30;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-30;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-01-30;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-01-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-30;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-01-30;Houten;52.0280;5.1680;kipper;weg;1
+2025-01-30;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-01-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-30;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-01-30;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-01-30;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-01-30;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-01-30;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-30;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-01-30;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-30;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-30;Utrecht;52.0907;5.1214;bus;ov;4
+2025-01-30;Woerden;52.0850;4.8830;trein;ov;1
+2025-01-31;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-01-31;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-31;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-01-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-31;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-01-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-01-31;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-01-31;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-01-31;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-01-31;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-01-31;Den Haag;52.0700;4.3000;trein;ov;2
+2025-01-31;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-01-31;Arnhem;51.9850;5.8990;trein;ov;1
+2025-01-31;Zwolle;52.5160;6.0830;trein;ov;1
+2025-01-31;Utrecht;52.0907;5.1214;bus;ov;4
+2025-01-31;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-03;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-02-03;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-03;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-02-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-03;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-03;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-03;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-02-03;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-03;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-03;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-03;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-03;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-02-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-03;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-02-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-03;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-03;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-03;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-02-03;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-03;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-02-03;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-03;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-03;Utrecht;52.0907;5.1214;bus;ov;5
+2025-02-03;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-04;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-04;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-04;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-02-04;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-04;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-04;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-04;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-02-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-04;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-04;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-04;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-04;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-04;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-02-04;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-02-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-04;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-02-04;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-02-04;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-04;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-04;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-04;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-04;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-04;Utrecht;52.0907;5.1214;bus;ov;5
+2025-02-04;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-05;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-05;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-02-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-05;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-05;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-05;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-05;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-05;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-05;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-02-05;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-05;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-05;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-05;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-02-05;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-05;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-05;Utrecht;52.0907;5.1214;bus;ov;3
+2025-02-05;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-06;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-02-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-06;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-06;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-02-06;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-06;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-02-06;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-06;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-02-06;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-06;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-02-06;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-06;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-06;Utrecht;52.0907;5.1214;bus;ov;4
+2025-02-06;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-07;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-07;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-02-07;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-07;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-07;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-07;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-02-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-07;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-07;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-02-07;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-02-07;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-07;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-02-07;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-02-07;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-07;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-07;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-07;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-07;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-07;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-07;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-07;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-07;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-07;Utrecht;52.0907;5.1214;bus;ov;5
+2025-02-07;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-10;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-02-10;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-10;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-02-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-10;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-02-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-10;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-02-10;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-10;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-02-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-10;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-10;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-02-10;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-10;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-02-10;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-02-10;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-10;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-02-10;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-10;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-02-10;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-10;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-10;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-02-10;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-10;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-10;Utrecht;52.0907;5.1214;bus;ov;5
+2025-02-10;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-11;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-02-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-11;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-02-11;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-02-11;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-02-11;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-11;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-02-11;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-02-11;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-02-11;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-02-11;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-11;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-02-11;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-11;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-11;Utrecht;52.0907;5.1214;bus;ov;5
+2025-02-11;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-12;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-12;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-12;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-02-12;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-02-12;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-02-12;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-12;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-02-12;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-02-12;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-12;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-12;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-02-12;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-12;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-12;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-12;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-12;Utrecht;52.0907;5.1214;bus;ov;4
+2025-02-12;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-13;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-13;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-13;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-13;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-02-13;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-13;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-02-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-13;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-02-13;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-13;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-13;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-02-13;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-02-13;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-02-13;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-13;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-02-13;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-13;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-13;Utrecht;52.0907;5.1214;bus;ov;4
+2025-02-13;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-14;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-14;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-02-14;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-14;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-14;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-14;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-02-14;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-14;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-14;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-02-14;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-02-14;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-02-14;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-14;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-14;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-14;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-14;Utrecht;52.0907;5.1214;bus;ov;3
+2025-02-14;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-17;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-02-17;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-17;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-17;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-02-17;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-17;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-17;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-17;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-17;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-17;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-17;Utrecht;52.0907;5.1214;bus;ov;4
+2025-02-17;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-18;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-18;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-18;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-18;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-18;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-02-18;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-18;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-18;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-02-18;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-02-18;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-02-18;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-18;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-18;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-18;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-18;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-18;Utrecht;52.0907;5.1214;bus;ov;5
+2025-02-18;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-19;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-19;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-02-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-19;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-19;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-02-19;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-19;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-02-19;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-19;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-02-19;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-19;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-19;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-02-19;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-19;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-19;Utrecht;52.0907;5.1214;bus;ov;5
+2025-02-19;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-20;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-02-20;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-20;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-20;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-20;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-20;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-02-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-20;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-02-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-20;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-02-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-20;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-02-20;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-02-20;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-02-20;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-20;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-20;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-20;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-20;Utrecht;52.0907;5.1214;bus;ov;3
+2025-02-20;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-21;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-02-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-21;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-02-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-21;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-02-21;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-21;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-02-21;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-02-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-21;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-02-21;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-21;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-21;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-21;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-02-21;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-21;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-21;Utrecht;52.0907;5.1214;bus;ov;4
+2025-02-21;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-24;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-24;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-24;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-02-24;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-24;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-02-24;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-02-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-24;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-02-24;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-02-24;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-24;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-24;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-24;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-24;Utrecht;52.0907;5.1214;bus;ov;2
+2025-02-24;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-25;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-25;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-02-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-25;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-02-25;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-25;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-02-25;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-25;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-25;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-25;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-25;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-25;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-25;Utrecht;52.0907;5.1214;bus;ov;3
+2025-02-25;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-26;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-26;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-02-26;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-26;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-26;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-02-26;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-26;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-26;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-26;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-26;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-26;Utrecht;52.0907;5.1214;bus;ov;3
+2025-02-26;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-27;Tiel;51.8860;5.4290;kipper;weg;1
+2025-02-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-27;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-02-27;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-27;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-02-27;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-02-27;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-02-27;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-02-27;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-02-27;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-02-27;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-02-27;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-27;Den Haag;52.0700;4.3000;trein;ov;2
+2025-02-27;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-27;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-27;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-27;Utrecht;52.0907;5.1214;bus;ov;4
+2025-02-27;Woerden;52.0850;4.8830;trein;ov;1
+2025-02-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-28;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-02-28;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-02-28;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-02-28;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-02-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-02-28;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-02-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-02-28;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-02-28;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-02-28;Den Haag;52.0700;4.3000;trein;ov;1
+2025-02-28;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-02-28;Arnhem;51.9850;5.8990;trein;ov;1
+2025-02-28;Zwolle;52.5160;6.0830;trein;ov;1
+2025-02-28;Utrecht;52.0907;5.1214;bus;ov;3
+2025-02-28;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-03;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-03;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-03-03;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-03;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-03;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-03;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-03;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-03;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-03-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-03;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-03;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-03;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-03-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-03;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-03-03;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-03-03;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-03;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-03;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-03;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-03;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-04;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-03-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-04;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-04;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-04;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-03-04;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-04;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-04;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-04;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-03-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-04;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-03-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-04;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-03-04;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-03-04;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-04;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-04;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-03-04;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-04;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-04;Utrecht;52.0907;5.1214;bus;ov;3
+2025-03-04;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-05;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-05;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-03-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-05;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-05;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-05;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-05;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-03-05;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-03-05;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-05;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-03-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-05;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-03-05;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-05;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-05;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-05;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-05;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-05;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-05;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-06;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-06;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-06;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-03-06;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-06;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-03-06;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-03-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-06;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-06;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-03-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-06;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-06;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-06;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-03-06;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-03-06;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-03-06;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-06;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-06;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-06;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-06;Utrecht;52.0907;5.1214;bus;ov;4
+2025-03-06;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-07;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-07;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-03-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-07;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-07;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-07;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-03-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-07;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-03-07;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-07;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-07;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-07;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-07;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-07;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-07;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-10;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-10;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-10;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-03-10;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-10;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-10;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-10;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-10;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-03-10;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-03-10;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-10;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-10;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-10;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-10;Utrecht;52.0907;5.1214;bus;ov;4
+2025-03-10;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-11;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-03-11;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-11;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-11;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-11;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-11;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-11;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-11;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-11;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-11;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-11;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-03-11;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-03-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-11;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-03-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-11;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-11;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-03-11;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-03-11;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-11;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-11;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-11;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-11;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-11;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-11;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-12;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-03-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-12;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-03-12;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-03-12;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-12;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-03-12;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-03-12;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-12;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-03-12;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-12;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-12;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-12;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-12;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-03-12;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-12;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-12;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-03-12;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-12;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-12;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-12;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-13;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-13;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-03-13;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-13;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-13;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-13;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-13;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-13;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-03-13;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-03-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-13;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-13;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-03-13;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-13;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-03-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-13;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-03-13;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-03-13;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-03-13;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-03-13;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-13;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-13;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-13;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-13;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-13;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-13;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-14;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-14;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-14;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-03-14;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-03-14;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-03-14;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-03-14;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-14;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-14;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-03-14;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-03-14;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-14;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-14;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-14;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-14;Utrecht;52.0907;5.1214;bus;ov;4
+2025-03-14;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-17;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-03-17;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-17;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-03-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-17;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-17;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-17;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-17;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-17;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-03-17;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-03-17;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-17;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-17;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-17;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-17;Utrecht;52.0907;5.1214;bus;ov;4
+2025-03-17;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-18;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-18;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-03-18;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-18;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-03-18;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-18;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-18;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-03-18;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-18;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-03-18;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-18;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-18;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-18;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-18;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-18;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-03-18;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-03-18;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-03-18;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-18;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-18;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-03-18;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-18;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-18;Utrecht;52.0907;5.1214;bus;ov;3
+2025-03-18;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-19;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-19;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-19;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-03-19;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-03-19;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-19;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-03-19;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-19;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-03-19;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-03-19;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-03-19;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-19;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-19;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-19;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-19;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-19;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-20;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-20;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-20;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-20;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-20;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-20;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-03-20;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-03-20;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-20;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-20;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-20;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-20;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-20;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-20;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-21;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-21;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-03-21;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-21;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-03-21;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-21;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-21;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-21;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-21;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-03-21;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-21;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-21;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-21;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-21;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-21;Utrecht;52.0907;5.1214;bus;ov;3
+2025-03-21;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-24;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-03-24;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-24;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-03-24;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-03-24;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-24;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-24;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-24;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-24;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-03-24;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-24;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-03-24;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-24;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-24;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-03-24;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-24;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-24;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-24;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-25;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-25;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-25;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-25;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-03-25;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-03-25;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-25;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-25;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-25;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-03-25;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-25;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-25;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-03-25;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-03-25;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-25;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-25;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-25;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-25;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-25;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-25;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-26;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-26;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-03-26;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-03-26;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-26;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-03-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-26;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-26;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-26;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-03-26;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-03-26;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-26;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-26;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-03-26;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-26;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-26;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-03-26;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-26;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-26;Utrecht;52.0907;5.1214;bus;ov;5
+2025-03-26;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-27;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-27;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-03-27;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-03-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-27;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-27;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-03-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-27;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-03-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-27;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-03-27;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-03-27;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-27;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-27;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-03-27;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-03-27;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-03-27;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-27;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-27;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-27;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-27;Utrecht;52.0907;5.1214;bus;ov;4
+2025-03-27;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-28;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-03-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-28;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-03-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-28;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-03-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-28;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-03-28;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-28;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-03-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-28;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-03-28;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-28;Den Haag;52.0700;4.3000;trein;ov;1
+2025-03-28;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-03-28;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-28;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-28;Utrecht;52.0907;5.1214;bus;ov;3
+2025-03-28;Woerden;52.0850;4.8830;trein;ov;1
+2025-03-31;Houten;52.0280;5.1680;kipper;weg;1
+2025-03-31;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-03-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-31;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-03-31;Tiel;51.8860;5.4290;kipper;weg;1
+2025-03-31;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-03-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-03-31;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-03-31;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-03-31;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-03-31;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-03-31;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-03-31;Den Haag;52.0700;4.3000;trein;ov;2
+2025-03-31;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-03-31;Arnhem;51.9850;5.8990;trein;ov;1
+2025-03-31;Zwolle;52.5160;6.0830;trein;ov;1
+2025-03-31;Utrecht;52.0907;5.1214;bus;ov;4
+2025-03-31;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-01;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-04-01;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-04-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-01;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-01;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-04-01;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-01;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-04-01;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-04-01;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-04-01;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-01;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-04-01;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-01;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-01;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-01;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-01;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-01;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-02;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-02;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-02;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-02;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-02;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-04-02;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-02;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-02;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-04-02;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-04-02;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-04-02;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-02;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-02;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-02;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-02;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-02;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-04-02;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-02;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-02;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-02;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-02;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-02;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-02;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-03;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-04-03;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-04-03;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-03;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-03;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-04-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-03;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-04-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-03;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-04-03;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-04-03;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-03;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-03;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-04-03;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-03;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-03;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-03;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-04;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-04;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-04;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-04-04;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-04;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-04-04;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-04-04;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-04-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-04;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-04;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-04-04;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-04;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-04;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-04-04;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-04;Den Haag;52.0700;4.3000;trein;ov;1
+2025-04-04;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-04-04;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-04;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-04;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-04;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-07;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-04-07;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-07;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-04-07;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-04-07;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-07;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-04-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-07;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-07;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-07;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-07;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-07;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-04-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-07;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-04-07;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-07;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-04-07;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-04-07;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-07;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-07;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-04-07;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-07;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-07;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-07;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-08;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-04-08;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-04-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-08;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-08;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-08;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-08;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-08;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-08;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-04-08;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-08;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-04-08;Den Haag;52.0700;4.3000;trein;ov;1
+2025-04-08;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-08;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-08;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-08;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-08;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-09;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-09;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-09;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-04-09;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-04-09;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-04-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-09;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-04-09;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-09;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-09;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-04-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-09;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-04-09;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-09;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-04-09;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-04-09;Den Haag;52.0700;4.3000;trein;ov;1
+2025-04-09;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-09;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-09;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-09;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-09;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-10;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-04-10;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-10;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-10;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-10;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-04-10;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-04-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-10;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-04-10;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-10;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-10;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-04-10;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-04-10;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-10;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-04-10;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-10;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-04-10;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-10;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-10;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-10;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-11;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-11;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-04-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-11;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-04-11;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-11;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-11;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-11;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-11;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-04-11;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-11;Den Haag;52.0700;4.3000;trein;ov;1
+2025-04-11;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-11;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-11;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-11;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-11;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-14;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-04-14;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-14;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-14;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-14;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-14;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-04-14;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-14;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-14;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-14;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-14;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-14;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-15;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-15;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-15;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-04-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-15;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-15;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-15;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-15;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-15;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-15;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-04-15;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-15;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-04-15;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-15;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-15;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-04-15;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-15;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-04-15;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-04-15;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-04-15;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-15;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-15;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-15;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-15;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-15;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-15;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-16;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-16;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-16;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-04-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-16;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-04-16;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-16;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-16;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-16;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-16;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-16;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-16;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-04-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-16;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-16;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-04-16;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-16;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-04-16;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-04-16;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-16;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-16;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-04-16;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-16;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-16;Den Haag;52.0700;4.3000;trein;ov;1
+2025-04-16;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-04-16;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-16;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-16;Utrecht;52.0907;5.1214;bus;ov;5
+2025-04-16;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-17;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-17;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-17;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-17;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-04-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-17;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-17;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-17;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-04-17;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-17;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-04-17;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-04-17;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-17;Den Haag;52.0700;4.3000;trein;ov;1
+2025-04-17;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-17;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-17;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-17;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-17;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-18;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-18;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-04-18;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-18;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-18;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-04-18;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-04-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-18;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-18;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-18;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-18;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-18;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-18;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-18;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-18;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-18;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-18;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-21;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-21;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-04-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-21;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-04-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-21;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-21;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-21;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-21;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-21;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-21;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-21;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-21;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-04-21;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-21;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-21;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-21;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-21;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-21;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-22;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-22;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-22;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-04-22;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-04-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-22;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-04-22;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-22;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-22;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-22;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-22;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-04-22;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-04-22;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-04-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-22;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-22;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-04-22;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-04-22;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-22;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-22;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-04-22;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-22;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-22;Utrecht;52.0907;5.1214;bus;ov;5
+2025-04-22;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-23;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-23;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-23;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-04-23;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-23;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-04-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-23;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-23;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-23;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-23;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-23;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-23;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-23;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-23;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-23;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-24;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-24;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-24;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-24;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-04-24;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-04-24;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-04-24;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-24;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-24;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-24;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-04-24;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-24;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-04-24;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-24;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-04-24;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-24;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-24;Utrecht;52.0907;5.1214;bus;ov;3
+2025-04-24;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-25;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-25;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-04-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-25;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-25;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-04-25;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-25;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-25;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-04-25;Den Haag;52.0700;4.3000;trein;ov;1
+2025-04-25;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-25;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-25;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-25;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-25;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-28;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-04-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-28;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-04-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-28;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-28;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-04-28;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-04-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-28;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-04-28;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-04-28;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-28;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-28;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-28;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-28;Utrecht;52.0907;5.1214;bus;ov;4
+2025-04-28;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-29;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-04-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-29;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-29;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-04-29;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-04-29;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-29;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-29;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-29;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-04-29;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-04-29;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-04-29;Den Haag;52.0700;4.3000;trein;ov;2
+2025-04-29;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-04-29;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-29;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-29;Utrecht;52.0907;5.1214;bus;ov;5
+2025-04-29;Woerden;52.0850;4.8830;trein;ov;1
+2025-04-30;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-30;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-30;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-30;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-04-30;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-04-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-30;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-04-30;Tiel;51.8860;5.4290;kipper;weg;1
+2025-04-30;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-04-30;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-04-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-30;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-04-30;Houten;52.0280;5.1680;kipper;weg;1
+2025-04-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-04-30;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-04-30;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-04-30;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-04-30;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-04-30;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-04-30;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-04-30;Den Haag;52.0700;4.3000;trein;ov;1
+2025-04-30;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-04-30;Arnhem;51.9850;5.8990;trein;ov;1
+2025-04-30;Zwolle;52.5160;6.0830;trein;ov;1
+2025-04-30;Utrecht;52.0907;5.1214;bus;ov;5
+2025-04-30;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-01;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-01;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-01;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-01;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-01;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-05-01;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-01;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-01;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-05-01;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-05-01;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-05-01;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-05-01;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-05-01;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-01;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-01;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-01;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-01;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-01;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-02;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-05-02;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-02;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-05-02;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-02;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-05-02;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-02;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-02;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-02;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-02;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-02;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-02;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-05-02;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-02;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-02;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-02;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-05-02;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-05-02;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-02;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-05-02;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-05-02;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-02;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-02;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-02;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-02;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-02;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-05;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-05;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-05;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-05;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-05;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-05-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-05;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-05;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-05;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-05-05;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-05;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-05-05;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-05;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-05;Utrecht;52.0907;5.1214;bus;ov;3
+2025-05-05;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-06;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-05-06;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-05-06;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-05-06;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-05-06;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-06;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-06;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-05-06;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-06;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-06;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-06;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-05-06;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-06;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-06;Utrecht;52.0907;5.1214;bus;ov;3
+2025-05-06;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-07;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-07;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-07;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-05-07;Tiel;51.8860;5.4290;kipper;weg;1
+2025-05-07;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-05-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-07;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-07;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-05-07;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-07;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-05-07;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-05-07;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-07;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-07;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-07;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-05-07;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-07;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-05-07;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-05-07;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-05-07;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-07;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-07;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-07;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-07;Utrecht;52.0907;5.1214;bus;ov;3
+2025-05-07;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-08;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-08;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-05-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-08;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-08;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-08;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-08;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-08;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-05-08;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-05-08;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-05-08;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-08;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-05-08;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-08;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-08;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-08;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-09;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-09;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-05-09;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-05-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-09;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-09;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-09;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-05-09;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-09;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-05-09;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-09;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-05-09;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-09;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-09;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-09;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-09;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-09;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-09;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-12;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-05-12;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-05-12;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-12;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-05-12;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-05-12;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-12;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-12;Tiel;51.8860;5.4290;kipper;weg;1
+2025-05-12;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-12;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-05-12;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-12;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-05-12;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-12;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-12;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-12;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-13;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-13;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-13;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-05-13;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-05-13;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-13;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-13;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-13;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-13;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-13;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-05-13;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-13;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-05-13;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-13;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-05-13;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-13;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-13;Utrecht;52.0907;5.1214;bus;ov;3
+2025-05-13;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-14;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-14;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-14;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-05-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-14;Tiel;51.8860;5.4290;kipper;weg;1
+2025-05-14;Tiel;51.8860;5.4290;kipper;weg;1
+2025-05-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-14;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-05-14;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-14;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-14;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-05-14;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-14;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-14;Utrecht;52.0907;5.1214;bus;ov;4
+2025-05-14;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-15;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-05-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-15;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-15;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-15;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-05-15;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-05-15;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-05-15;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-05-15;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-05-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-15;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-05-15;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-05-15;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-05-15;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-15;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-15;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-15;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-15;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-15;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-16;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-16;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-16;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-16;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-16;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-16;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-16;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-16;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-05-16;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-05-16;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-16;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-16;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-16;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-16;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-16;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-16;Utrecht;52.0907;5.1214;bus;ov;3
+2025-05-16;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-19;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-19;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-05-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-19;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-05-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-19;Tiel;51.8860;5.4290;kipper;weg;1
+2025-05-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-19;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-19;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-05-19;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-19;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-19;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-19;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-19;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-19;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-19;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-20;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-20;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-05-20;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-20;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-20;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-20;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-05-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-20;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-05-20;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-20;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-05-20;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-20;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-05-20;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-20;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-20;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-20;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-20;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-20;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-21;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-21;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-21;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-05-21;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-21;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-21;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-05-21;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-21;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-21;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-21;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-21;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-21;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-21;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-22;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-22;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-22;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-05-22;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-22;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-22;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-05-22;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-22;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-05-22;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-05-22;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-22;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-22;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-22;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-22;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-22;Utrecht;52.0907;5.1214;bus;ov;3
+2025-05-22;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-23;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-05-23;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-23;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-23;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-23;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-05-23;Tiel;51.8860;5.4290;kipper;weg;1
+2025-05-23;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-05-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-23;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-05-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-23;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-23;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-05-23;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-23;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-23;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-23;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-23;Utrecht;52.0907;5.1214;bus;ov;3
+2025-05-23;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-26;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-05-26;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-05-26;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-05-26;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-05-26;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-26;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-05-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-26;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-26;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-26;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-26;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-26;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-05-26;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-26;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-05-26;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-05-26;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-26;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-05-26;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-26;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-26;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-26;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-27;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-05-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-27;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-27;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-27;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-27;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-05-27;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-27;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-05-27;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-27;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-05-27;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-27;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-27;Utrecht;52.0907;5.1214;bus;ov;4
+2025-05-27;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-28;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-28;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-28;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-28;Tiel;51.8860;5.4290;kipper;weg;1
+2025-05-28;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-28;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-05-28;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-05-28;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-28;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-28;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-05-28;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-28;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-28;Utrecht;52.0907;5.1214;bus;ov;4
+2025-05-28;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-29;Houten;52.0280;5.1680;kipper;weg;1
+2025-05-29;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-29;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-29;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-29;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-05-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-29;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-05-29;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-05-29;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-05-29;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-05-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-29;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-29;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-29;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-05-29;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-29;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-29;Den Haag;52.0700;4.3000;trein;ov;2
+2025-05-29;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-05-29;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-29;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-29;Utrecht;52.0907;5.1214;bus;ov;5
+2025-05-29;Woerden;52.0850;4.8830;trein;ov;1
+2025-05-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-30;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-05-30;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-05-30;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-30;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-05-30;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-05-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-05-30;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-05-30;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-05-30;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-05-30;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-05-30;Den Haag;52.0700;4.3000;trein;ov;1
+2025-05-30;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-05-30;Arnhem;51.9850;5.8990;trein;ov;1
+2025-05-30;Zwolle;52.5160;6.0830;trein;ov;1
+2025-05-30;Utrecht;52.0907;5.1214;bus;ov;4
+2025-05-30;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-02;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-06-02;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-02;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-02;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-02;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-02;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-02;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-02;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-02;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-02;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-02;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-06-02;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-02;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-06-02;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-06-02;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-02;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-02;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-02;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-02;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-02;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-03;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-06-03;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-03;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-03;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-03;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-03;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-06-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-03;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-03;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-03;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-03;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-03;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-06-03;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-03;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-06-03;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-03;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-06-03;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-03;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-03;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-03;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-03;Utrecht;52.0907;5.1214;bus;ov;4
+2025-06-03;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-04;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-04;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-04;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-04;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-04;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-04;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-04;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-04;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-04;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-04;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-04;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-04;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-04;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-04;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-05;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-05;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-05;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-06-05;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-05;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-05;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-05;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-06-05;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-05;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-05;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-05;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-05;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-05;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-05;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-05;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-05;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-05;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-06-05;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-05;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-06-05;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-05;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-05;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-05;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-05;Utrecht;52.0907;5.1214;bus;ov;4
+2025-06-05;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-06;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-06;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-06;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-06-06;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-06;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-06;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-06;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-06;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-06-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-06;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-06-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-06;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-06;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-06;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-06-06;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-06;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-06;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-06;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-06;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-06;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-06;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-09;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-09;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-09;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-09;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-09;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-06-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-09;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-09;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-06-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-09;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-09;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-09;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-09;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-09;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-09;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-06-09;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-09;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-09;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-09;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-09;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-09;Utrecht;52.0907;5.1214;bus;ov;5
+2025-06-09;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-10;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-10;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-10;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-06-10;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-10;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-10;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-06-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-10;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-06-10;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-06-10;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-06-10;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-10;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-06-10;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-10;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-10;Utrecht;52.0907;5.1214;bus;ov;5
+2025-06-10;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-11;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-06-11;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-11;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-11;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-11;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-11;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-11;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-11;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-11;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-11;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-11;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-06-11;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-11;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-11;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-11;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-06-11;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-11;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-06-11;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-11;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-11;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-11;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-12;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-12;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-12;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-12;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-12;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-12;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-06-12;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-12;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-12;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-12;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-12;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-12;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-12;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-12;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-06-12;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-12;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-06-12;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-12;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-12;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-06-12;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-12;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-12;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-12;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-12;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-12;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-12;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-12;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-13;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-13;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-13;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-13;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-13;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-13;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-13;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-06-13;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-06-13;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-13;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-06-13;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-13;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-13;Utrecht;52.0907;5.1214;bus;ov;4
+2025-06-13;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-16;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-06-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-16;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-16;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-16;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-16;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-06-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-16;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-16;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-16;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-16;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-16;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-16;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-16;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-16;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-06-16;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-06-16;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-16;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-06-16;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-16;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-16;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-16;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-17;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-06-17;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-17;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-17;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-17;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-17;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-17;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-17;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-06-17;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-17;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-17;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-17;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-17;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-06-17;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-17;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-06-17;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-17;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-06-17;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-17;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-17;Utrecht;52.0907;5.1214;bus;ov;5
+2025-06-17;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-18;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-18;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-06-18;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-18;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-18;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-06-18;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-18;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-18;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-18;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-18;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-18;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-18;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-18;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-18;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-18;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-06-18;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-18;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-18;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-18;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-18;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-18;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-18;Utrecht;52.0907;5.1214;bus;ov;4
+2025-06-18;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-19;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-19;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-19;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-19;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-19;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-06-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-19;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-19;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-06-19;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-06-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-19;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-19;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-06-19;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-06-19;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-19;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-19;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-19;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-19;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-19;Utrecht;52.0907;5.1214;bus;ov;4
+2025-06-19;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-20;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-20;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-06-20;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-20;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-20;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-20;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-20;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-20;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-06-20;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-20;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-06-20;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-20;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-20;Utrecht;52.0907;5.1214;bus;ov;4
+2025-06-20;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-23;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-23;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-06-23;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-23;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-23;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-06-23;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-23;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-06-23;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-23;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-23;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-23;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-23;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-23;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-06-23;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-23;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-23;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-06-23;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-23;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-23;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-23;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-23;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-23;Utrecht;52.0907;5.1214;bus;ov;5
+2025-06-23;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-24;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-24;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-24;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-24;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-24;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-24;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-24;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-24;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-24;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-24;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-24;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-24;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-24;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-06-24;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-24;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-24;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-24;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-24;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-24;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-24;Utrecht;52.0907;5.1214;bus;ov;4
+2025-06-24;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-25;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-06-25;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-06-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-25;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-06-25;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-06-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-25;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-25;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-25;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-06-25;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-25;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-06-25;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-25;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-25;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-25;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-06-25;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-06-25;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-25;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-06-25;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-25;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-25;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-25;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-25;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-25;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-25;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-26;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-26;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-26;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-06-26;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-26;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-26;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-26;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-26;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-06-26;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-06-26;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-26;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-26;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-26;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-26;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-26;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-26;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-27;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-06-27;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-06-27;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-27;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-06-27;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-06-27;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-06-27;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-27;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-06-27;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-06-27;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-06-27;Den Haag;52.0700;4.3000;trein;ov;2
+2025-06-27;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-27;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-27;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-27;Utrecht;52.0907;5.1214;bus;ov;3
+2025-06-27;Woerden;52.0850;4.8830;trein;ov;1
+2025-06-30;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-30;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-06-30;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-06-30;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-06-30;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-06-30;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-06-30;Tiel;51.8860;5.4290;kipper;weg;1
+2025-06-30;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-06-30;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-06-30;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-06-30;Den Haag;52.0700;4.3000;trein;ov;1
+2025-06-30;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-06-30;Arnhem;51.9850;5.8990;trein;ov;1
+2025-06-30;Zwolle;52.5160;6.0830;trein;ov;1
+2025-06-30;Utrecht;52.0907;5.1214;bus;ov;4
+2025-06-30;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-01;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-01;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-01;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-01;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-07-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-01;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-07-01;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-01;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-01;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-01;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-01;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-01;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-01;Utrecht;52.0907;5.1214;bus;ov;4
+2025-07-01;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-02;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-02;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-02;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-07-02;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-02;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-02;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-07-02;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-02;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-07-02;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-07-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-02;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-02;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-02;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-02;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-07-02;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-02;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-02;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-02;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-02;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-07-02;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-07-02;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-02;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-02;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-07-02;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-02;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-02;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-02;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-03;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-07-03;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-03;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-07-03;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-07-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-03;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-03;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-03;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-03;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-07-03;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-03;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-03;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-03;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-07-03;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-03;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-03;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-03;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-04;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-04;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-04;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-04;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-04;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-04;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-07-04;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-04;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-04;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-04;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-04;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-04;Utrecht;52.0907;5.1214;bus;ov;4
+2025-07-04;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-07;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-07-07;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-07-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-07;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-07;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-07-07;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-07-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-07;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-07-07;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-07-07;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-07;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-07;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-07;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-07;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-07;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-08;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-07-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-08;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-08;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-07-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-08;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-07-08;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-07-08;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-08;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-07-08;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-07-08;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-08;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-08;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-07-08;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-07-08;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-07-08;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-08;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-07-08;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-08;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-08;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-08;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-09;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-09;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-07-09;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-09;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-09;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-07-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-09;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-09;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-09;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-07-09;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-09;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-09;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-07-09;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-07-09;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-09;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-09;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-09;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-09;Utrecht;52.0907;5.1214;bus;ov;5
+2025-07-09;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-10;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-10;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-10;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-10;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-10;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-10;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-10;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-10;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-07-10;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-07-10;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-10;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-10;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-10;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-10;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-10;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-10;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-10;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-11;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-11;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-11;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-11;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-11;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-07-11;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-07-11;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-11;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-11;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-11;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-11;Utrecht;52.0907;5.1214;bus;ov;5
+2025-07-11;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-14;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-14;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-07-14;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-07-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-14;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-07-14;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-14;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-07-14;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-14;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-07-14;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-14;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-14;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-14;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-14;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-14;Utrecht;52.0907;5.1214;bus;ov;4
+2025-07-14;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-15;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-07-15;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-15;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-15;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-15;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-15;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-15;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-15;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-15;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-07-15;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-15;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-07-15;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-15;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-07-15;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-15;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-15;Utrecht;52.0907;5.1214;bus;ov;2
+2025-07-15;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-16;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-07-16;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-16;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-16;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-07-16;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-16;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-07-16;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-16;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-16;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-16;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-16;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-16;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-16;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-07-16;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-16;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-16;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-16;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-16;Utrecht;52.0907;5.1214;bus;ov;4
+2025-07-16;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-17;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-17;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-17;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-17;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-17;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-17;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-07-17;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-17;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-07-17;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-17;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-07-17;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-07-17;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-17;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-17;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-17;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-17;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-17;Utrecht;52.0907;5.1214;bus;ov;5
+2025-07-17;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-18;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-18;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-18;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-07-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-18;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-18;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-18;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-18;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-18;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-07-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-18;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-07-18;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-07-18;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-07-18;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-18;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-07-18;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-18;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-18;Utrecht;52.0907;5.1214;bus;ov;4
+2025-07-18;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-21;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-07-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-21;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-21;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-07-21;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-07-21;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-21;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-21;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-21;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-21;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-07-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-21;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-21;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-21;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-21;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-21;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-21;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-21;Utrecht;52.0907;5.1214;bus;ov;5
+2025-07-21;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-22;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-22;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-07-22;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-07-22;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-22;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-22;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-07-22;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-07-22;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-22;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-22;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-22;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-07-22;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-07-22;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-07-22;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-22;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-22;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-22;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-22;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-22;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-23;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-23;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-23;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-23;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-23;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-23;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-23;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-23;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-23;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-07-23;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-23;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-23;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-07-23;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-23;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-23;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-23;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-24;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-24;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-07-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-24;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-24;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-24;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-07-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-24;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-24;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-24;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-24;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-07-24;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-07-24;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-24;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-24;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-07-24;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-24;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-24;Utrecht;52.0907;5.1214;bus;ov;5
+2025-07-24;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-25;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-25;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-25;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-25;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-07-25;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-25;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-25;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-25;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-07-25;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-07-25;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-25;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-07-25;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-25;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-25;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-25;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-25;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-25;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-25;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-07-25;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-25;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-25;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-25;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-25;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-25;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-25;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-28;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-28;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-07-28;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-28;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-07-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-28;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-07-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-28;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-28;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-28;Den Haag;52.0700;4.3000;trein;ov;2
+2025-07-28;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-28;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-28;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-28;Utrecht;52.0907;5.1214;bus;ov;5
+2025-07-28;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-29;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-29;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-29;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-29;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-29;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-07-29;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-29;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-07-29;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-29;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-07-29;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-29;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-07-29;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-29;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-29;Utrecht;52.0907;5.1214;bus;ov;5
+2025-07-29;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-30;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-07-30;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-07-30;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-30;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-30;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-07-30;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-07-30;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-07-30;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-30;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-30;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-07-30;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-07-30;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-30;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-30;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-30;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-07-30;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-30;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-30;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-07-30;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-30;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-30;Utrecht;52.0907;5.1214;bus;ov;3
+2025-07-30;Woerden;52.0850;4.8830;trein;ov;1
+2025-07-31;Houten;52.0280;5.1680;kipper;weg;1
+2025-07-31;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-07-31;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-07-31;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-07-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-31;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-31;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-31;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-07-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-31;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-07-31;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-07-31;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-07-31;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-07-31;Tiel;51.8860;5.4290;kipper;weg;1
+2025-07-31;Nijmegen;51.8420;5.8580;binnenvaartschip;water;1
+2025-07-31;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-07-31;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-07-31;Den Haag;52.0700;4.3000;trein;ov;1
+2025-07-31;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-07-31;Arnhem;51.9850;5.8990;trein;ov;1
+2025-07-31;Zwolle;52.5160;6.0830;trein;ov;1
+2025-07-31;Utrecht;52.0907;5.1214;bus;ov;5
+2025-07-31;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-01;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-01;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-08-01;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-08-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-01;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-01;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-08-01;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-01;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-01;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-01;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-01;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-01;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-01;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-04;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-04;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-04;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-08-04;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-04;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-04;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-04;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-04;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-04;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-08-04;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-04;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-04;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-04;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-04;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-08-04;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-04;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-04;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-04;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-04;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-04;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-04;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-04;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-05;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-08-05;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-05;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-05;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-05;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-05;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-05;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-05;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-05;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-05;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-08-05;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-05;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-05;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-08-05;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-08-05;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-05;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-08-05;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-05;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-05;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-05;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-08-05;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-05;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-05;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-05;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-06;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-06;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-06;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-06;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-06;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-06;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-08-06;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-06;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-08-06;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-08-06;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-06;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-08-06;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-06;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-06;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-08-06;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-06;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-06;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-06;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-06;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-06;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-06;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-07;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-07;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-07;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-07;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-07;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-07;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-08-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-07;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-07;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-07;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-08-07;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-08-07;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-08-07;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-07;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-07;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-07;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-07;Utrecht;52.0907;5.1214;bus;ov;4
+2025-08-07;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-08;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-08-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-08;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-08;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-08-08;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-08;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-08;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-08;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-08-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-08;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-08;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-08;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-08;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-08-08;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-08;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-08;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-08-08;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-08-08;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-08;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-08;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-08;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-08;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-08;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-08;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-11;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-08-11;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-11;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-11;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-11;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-11;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-11;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-11;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-11;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-11;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-11;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-11;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-11;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-11;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-11;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-11;Utrecht;52.0907;5.1214;bus;ov;5
+2025-08-11;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-12;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-12;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-08-12;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-12;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-12;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-12;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-12;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-12;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-12;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-12;Amsterdam Westpoort;52.4050;4.8200;binnenvaartschip;water;1
+2025-08-12;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-12;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-08-12;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-12;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-12;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-12;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-12;Utrecht;52.0907;5.1214;bus;ov;2
+2025-08-12;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-13;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-13;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-13;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-13;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-13;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-13;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-08-13;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-08-13;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-08-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-13;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-13;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-13;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-13;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-13;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-08-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-13;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-08-13;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-13;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-13;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-13;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-13;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-13;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-13;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-08-13;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-13;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-13;Utrecht;52.0907;5.1214;bus;ov;5
+2025-08-13;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-14;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-14;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-08-14;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-14;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-08-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-14;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-14;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-14;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-08-14;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-14;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-14;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-14;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-14;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-14;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-08-14;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-14;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-14;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-14;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-14;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-14;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-14;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-14;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-15;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-08-15;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-15;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-15;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-08-15;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-15;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-08-15;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-15;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-08-15;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-15;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-15;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-15;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-15;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-15;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-08-15;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-08-15;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-15;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-15;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-15;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-15;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-08-15;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-08-15;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-15;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-15;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-15;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-15;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-15;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-15;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Hengelo;52.2660;6.7930;dieplader;weg;1
+2025-08-18;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-18;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-18;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-18;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-18;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-18;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-18;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-18;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-18;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-18;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-08-18;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-18;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-18;Utrecht;52.0907;5.1214;bus;ov;5
+2025-08-18;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-19;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-19;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-08-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-19;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-08-19;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-19;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-08-19;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-19;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-19;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-08-19;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-19;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-19;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-19;Breda;51.5890;4.7760;vrachtwagen;weg;1
+2025-08-19;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-19;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-19;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-08-19;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-08-19;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-08-19;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-19;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-19;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-19;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-19;Utrecht;52.0907;5.1214;bus;ov;5
+2025-08-19;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-20;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-08-20;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-08-20;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-08-20;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-20;Culemborg;51.9550;5.2270;kipper;weg;1
+2025-08-20;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-20;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-20;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-20;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-08-20;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-20;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-20;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-08-20;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-20;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-08-20;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-20;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-20;Utrecht;52.0907;5.1214;bus;ov;4
+2025-08-20;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-21;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-21;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-21;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-21;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-21;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-08-21;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-08-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-21;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-21;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-21;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-08-21;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-21;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-08-21;Amsterdam;52.3730;4.8920;trein;ov;2
+2025-08-21;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-21;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-21;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-08-21;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-21;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-21;Utrecht;52.0907;5.1214;bus;ov;4
+2025-08-21;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-22;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-22;Eindhoven;51.4410;5.4700;dieplader;weg;1
+2025-08-22;Apeldoorn;52.2110;5.9690;vrachtwagen;weg;1
+2025-08-22;Gorinchem;51.8350;4.9740;vrachtwagen;weg;1
+2025-08-22;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-22;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-22;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-22;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-22;Veenendaal;52.0280;5.5580;vrachtwagen;weg;1
+2025-08-22;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-08-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-22;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-22;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-22;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-22;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-22;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-22;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-22;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-22;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-08-22;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-22;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-22;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-22;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-22;Utrecht;52.0907;5.1214;bus;ov;6
+2025-08-22;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-25;Zwolle;52.5160;6.0830;vrachtwagen;weg;1
+2025-08-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-25;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-25;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-25;Amersfoort;52.1560;5.3870;vrachtwagen;weg;1
+2025-08-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-25;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-25;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-08-25;Moerdijk;51.6860;4.6170;vrachtwagen;weg;1
+2025-08-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-25;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-25;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-25;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-08-25;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-25;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-25;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-08-25;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-25;Den Haag;52.0700;4.3000;trein;ov;1
+2025-08-25;Amersfoort;52.1560;5.3870;trein;ov;3
+2025-08-25;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-25;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-25;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-25;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-26;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-26;Den Bosch;51.6980;5.3040;vrachtwagen;weg;1
+2025-08-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-26;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-08-26;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-26;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-26;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-26;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-26;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-08-26;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-26;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-26;Moerdijk;51.6860;4.6170;duwbak;water;1
+2025-08-26;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-26;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-26;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-26;Amersfoort;52.1560;5.3870;trein;ov;2
+2025-08-26;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-26;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-26;Utrecht;52.0907;5.1214;bus;ov;4
+2025-08-26;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-27;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-27;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-27;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-27;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-27;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-27;Nijmegen;51.8420;5.8580;vrachtwagen;weg;1
+2025-08-27;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-27;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-08-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-27;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-27;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-27;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-27;Amsterdam;52.3730;4.8920;trein;ov;3
+2025-08-27;Rotterdam;51.9225;4.4792;trein;ov;2
+2025-08-27;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-27;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-08-27;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-27;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-27;Utrecht;52.0907;5.1214;bus;ov;4
+2025-08-27;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-28;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-28;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-28;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-28;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-28;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-28;Amsterdam Westpoort;52.4050;4.8200;kipper;weg;1
+2025-08-28;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-28;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-28;Deventer;52.2550;6.1630;dieplader;weg;1
+2025-08-28;Rotterdam Waalhaven;51.8870;4.4400;duwbak;water;1
+2025-08-28;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-08-28;Rotterdam;51.9225;4.4792;trein;ov;1
+2025-08-28;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-28;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-08-28;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-28;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-28;Utrecht;52.0907;5.1214;bus;ov;3
+2025-08-28;Woerden;52.0850;4.8830;trein;ov;1
+2025-08-29;Almere;52.3700;5.2140;vrachtwagen;weg;1
+2025-08-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-29;Rotterdam Waalhaven;51.8870;4.4400;vrachtwagen;weg;1
+2025-08-29;Hoorn;52.6420;5.0600;dieplader;weg;1
+2025-08-29;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-29;Zaandam;52.4420;4.8290;vrachtwagen;weg;1
+2025-08-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-29;Woerden;52.0850;4.8830;vrachtwagen;weg;1
+2025-08-29;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-29;Arnhem;51.9850;5.8990;vrachtwagen;weg;1
+2025-08-29;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-29;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-29;Houten;52.0280;5.1680;kipper;weg;1
+2025-08-29;Tiel;51.8860;5.4290;kipper;weg;1
+2025-08-29;Nieuwegein;52.0290;5.0800;betonmixer;weg;1
+2025-08-29;Lelystad;52.5180;5.4710;dieplader;weg;1
+2025-08-29;Amsterdam;52.3730;4.8920;trein;ov;4
+2025-08-29;Rotterdam;51.9225;4.4792;trein;ov;3
+2025-08-29;Den Haag;52.0700;4.3000;trein;ov;2
+2025-08-29;Amersfoort;52.1560;5.3870;trein;ov;1
+2025-08-29;Arnhem;51.9850;5.8990;trein;ov;1
+2025-08-29;Zwolle;52.5160;6.0830;trein;ov;1
+2025-08-29;Utrecht;52.0907;5.1214;bus;ov;5
+2025-08-29;Woerden;52.0850;4.8830;trein;ov;1
