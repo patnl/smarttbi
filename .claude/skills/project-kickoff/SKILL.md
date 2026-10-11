@@ -18,7 +18,7 @@ Leg vast, in de taal van de gebruiker:
 Zet dit in `CLAUDE.md` (bestaat die al, werk hem dan bij in plaats van te overschrijven).
 
 ## 2. Beslissingenbestand
-Maak `docs/beslissingen.md`: een logboek van `datum - beslissing - reden - door wie`. Alle threads lezen het vóór ze beginnen en voegen toe wat ze beslissen. Zo spreken threads elkaar niet tegen en blijft kennis na een sessie bestaan. Vul het meteen met de beslissingen die al in het gesprek vallen.
+Maak `docs/beslissingen.md`: een logboek van `datum - beslissing - reden - door wie`. Alle threads lezen het vóór ze beginnen. Alleen de coördinator schrijft erin: threads melden hun beslissingen in hun eindrapport, en de coördinator voegt ze na de review in één keer toe. Zo schrijven parallelle threads nooit in hetzelfde bestand. Zo spreken threads elkaar niet tegen en blijft kennis na een sessie bestaan. Vul het meteen met de beslissingen die al in het gesprek vallen.
 
 ## 3. Besluitrechten
 Schrijf in de brief welke beslissingen bij de mens blijven (domeinaannames, CI/workflows, alles richting productie, kosten, beveiliging) en welke Claude zelf mag nemen (refactors, tests, naamgeving). Dit is de reviewpoort die later gebruikt wordt.

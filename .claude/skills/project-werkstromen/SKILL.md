@@ -24,4 +24,4 @@ Parallel werken wint alleen tijd als de stukken echt onafhankelijk zijn. Threads
 Raken twee werkstromen onvermijdelijk hetzelfde bestand, voer ze dan na elkaar uit of laat één thread beide doen. Zeg dit expliciet tegen de gebruiker.
 
 ## Uitvoer
-Presenteer het plan als tabel (werkstroom, bestanden, klaar-als, volgorde) en wacht op akkoord voordat je threads start. Geef elke thread bij de start mee: de kaart, het pad naar `CLAUDE.md` en de opdracht om `docs/beslissingen.md` te lezen en bij te werken.
+Presenteer het plan als tabel (werkstroom, bestanden, klaar-als, volgorde) en wacht op akkoord voordat je threads start. Geef elke thread bij de start mee: de kaart, het pad naar `CLAUDE.md` en de opdracht om `docs/beslissingen.md` te lezen (niet te bewerken) en beslissingen te melden in het eindrapport. Het beslissingenbestand is van de coördinator, zodat geen twee threads hetzelfde bestand aanraken.

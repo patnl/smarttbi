@@ -1,6 +1,7 @@
 ---
 name: project-review
-description: Beoordeel en voeg samen wat parallelle threads of subagents hebben opgeleverd: PR's, branches en tussenresultaten. Controleert op overlap, conflicten, tegenstrijdige aannames en of de "klaar als"-criteria gehaald zijn, en bepaalt wat de mens moet goedkeuren. Gebruik deze skill wanneer threads klaar zijn, de gebruiker vraagt "wat is er gebeurd", "check de PR's", "voeg samen", "review de resultaten", of een statusoverzicht van een lopend project wil, ook zonder het woord review.
+description: >-
+  Beoordeel en voeg samen wat parallelle threads of subagents hebben opgeleverd: PR's, branches en tussenresultaten. Controleert op overlap, conflicten, tegenstrijdige aannames en of de "klaar als"-criteria gehaald zijn, en bepaalt wat de mens moet goedkeuren. Gebruik deze skill wanneer threads klaar zijn, de gebruiker vraagt "wat is er gebeurd", "check de PR's", "voeg samen", "review de resultaten", of een statusoverzicht van een lopend project wil, ook zonder het woord review.
 ---
 
 # Review en samenvoegen
@@ -10,7 +11,7 @@ Menselijke review is de bottleneck bij parallel werk. Jouw taak is die review ma
 ## Per thread controleren
 - Is het "klaar als"-criterium gehaald? Draai de tests en checks zelf; geloof de samenvatting van de thread niet blind.
 - Zit de wijziging binnen de eigen bestanden van de werkstroom? Zo niet, markeer dat.
-- Is `docs/beslissingen.md` bijgewerkt met wat de thread besloot?
+- Staan de beslissingen van de thread in zijn eindrapport? Voeg ze na je controle zelf toe aan `docs/beslissingen.md`; threads schrijven daar niet in.
 - Staat er iets in dat bij de mens hoort (domeinaannames, CI, productie, kosten, beveiliging)?
 
 ## Over threads heen

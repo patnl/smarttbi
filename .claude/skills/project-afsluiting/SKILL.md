@@ -1,6 +1,7 @@
 ---
 name: project-afsluiting
-description: Sluit een project of werkfase netjes af en houd het geheugen gezond: eindoverzicht, beslissingenbestand opschonen, CLAUDE.md bijwerken, openstaande punten vastleggen en opruimen van branches. Gebruik deze skill wanneer een project of mijlpaal klaar lijkt, de gebruiker "afronden", "closeout", "overdracht", "wat is er nog open", "opschonen" of een memory-audit noemt, of wanneer CLAUDE.md of het beslissingenbestand vol en verouderd raakt.
+description: >-
+  Sluit een project of werkfase netjes af en houd het geheugen gezond: eindoverzicht, beslissingenbestand opschonen, CLAUDE.md bijwerken, openstaande punten vastleggen en opruimen van branches. Gebruik deze skill wanneer een project of mijlpaal klaar lijkt, de gebruiker "afronden", "closeout", "overdracht", "wat is er nog open", "opschonen" of een memory-audit noemt, of wanneer CLAUDE.md of het beslissingenbestand vol en verouderd raakt.
 ---
 
 # Afsluiting en geheugenonderhoud
